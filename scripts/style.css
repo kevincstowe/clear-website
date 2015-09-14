@@ -1,0 +1,160 @@
+body,h1,h2,h3,h4,h5,h6,p,form,fieldset {margin:0;padding:0;}
+.low {display:none;}
+
+
+/* html tag override ------------------*/
+
+body {
+  	margin:0;
+  	padding:15px 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:75%;
+	line-height:1.8em;
+	text-align:center;
+	color:#414141;
+	background:#CCCC99;
+	/*letter-spacing:.05em;*/
+}
+
+
+/* CONTENT controlling frames ----------------*/
+
+#main {
+	position:relative;
+	left: 5px;
+  	width:840px;
+  	margin:0px auto;
+  	text-align:left;
+    padding: 3px 3px 3px 3px;
+	background: white;
+}
+
+#header {
+ 	margin-bottom:10px;
+}
+#header img {
+	display:block;
+}
+
+
+#textbox {
+	float:right;
+	width:634px;
+	padding-left:20px;
+    background: white;
+}
+
+#subtextbox {
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:25px;
+	padding-right: 20px;
+}
+
+#subtextbox ul {
+    padding-left: 10px;
+}
+
+#menu {
+	float:left;
+	padding: 0 0 0 0px;
+	width: 184px;
+	margin-right:2px;
+    background: white;
+}
+
+#menu ul {
+	padding-right:5px;
+	list-style-position: inside;
+}
+
+#menu li.leaf {	
+	list-style-type: disc;
+	border-bottom: 1px solid #cccccc;
+}	
+
+#menu li.expanded {
+	list-style-type: circle;
+	border-bottom: 1px solid #dddddd;
+}
+
+/* headings
+--------------------------------------------------*/
+h1, h1 a,
+h2, h2 a,
+h3 a,
+h4 a
+  {color:#FF8000;}
+
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover
+  {color:#FF8000;}
+
+/*--------------------------------------------------*/
+/* Class Styles */
+
+ .columnHeader {
+	font: 11px Arial, Helvetica, sans-serif;
+	color: #FF080E;
+	font-weight:bold;
+	line-height:18px;
+	letter-spacing:.05em;
+	}
+	
+.smallText {
+	font:11px Arial, Helvetica, sans-serif;
+	color:#333333;
+	letter-spacing:.04em;
+	}
+
+/*--------------------------------------------------*/
+table { 
+	width:100%; 
+	border-top:0px solid #ffffff; 
+	border-right:0px solid #ffffff; 
+	margin:0em auto; 
+	border-collapse:collapse; 
+} 
+
+td { 
+	border-bottom:1px solid #ffffff; 
+	border-left:1px solid #ffffff; 
+	padding-top:1em;
+	padding-left:1em;
+	padding-bottom:1em;
+	padding-right:1em;
+}
+
+/*--------------------------------------------------*/
+div.img {
+  margin:2px;
+  border:2px solid #aaaaaa;
+  border-color: #dddddd #aaaaaa #aaaaaa #dddddd;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+}
+div.img img {
+  display:inline;
+  margin:3px;
+  border:1px solid #ffffff;
+}
+p.img2 {
+  margin:0px;
+  border:1px solid #000000;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+}
+p.img2 img {
+  border-style:double; 
+}
+
+.img-email { 
+	border: 0px;
+	vertical-align: middle;
+}
