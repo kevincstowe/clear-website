@@ -21,15 +21,12 @@
 	    </tr>	
 		<TR vAlign=top>
 		  <TD>
-		    <P class=img2><IMG src="people/susan_brown.jpg"></P></TD>
+		    <P class=img2><IMG src="images/notavailable.jpg"></P></TD>
 		  <TD><A onclick="loadPage('people/profile_susan_brown.html')"
 			 href="javascript:void(0);"><B>Brown,
-			Susan Windisch</A></B> 
-		    <br>Instructor, Research Associate
-<BR><B>Specialization / Interests:</B> <BR>Natural language processing,
-computational semantics, lexical resources and ontologies.</TD></TR>
+			Susan</A></B> <BR><B>Specialization / Interests:</B> <BR>Computational semantics: word sense disambiguation, semantic representations, ontologies; cognitive science: mental processing of polysemy and metaphor </TD></TR>
 
-<!--                <tr valign="top">
+                <tr valign="top">
                         <td><p class="img2"><img src="people/orin.jpg"
                         width="100" height="100"/></p></td>
                         <td><u><b>Hargraves, Orin</b></u>
@@ -42,7 +39,7 @@ computational semantics, lexical resources and ontologies.</TD></TR>
                                 class="img-email">
                         </td>
                 </tr>
--->
+
 	        <tr valign="top">
 		    <td><p class="img2"><img
 	src="people/mh.png" height="100" width="100"</p></td>
@@ -109,10 +106,10 @@ computational semantics, lexical resources and ontologies.</TD></TR>
 		</tr>
 			
 		<tr valign="top">
-			<td><p class="img2"><img src="images/notavailable.jpg" /></p></td>
+			<td><p class="img2"><img src="people/sarel_van_vuuren.jpg" /></p></td>
 			<td><u><b>Van Vuuren, Sarel</b></u>
-				<br>Associate Research Professor
-				<br>Cognitive Science Institute
+				<br>Research Associate
+				<br>Computational Language and Education Research
 				<br>University of Colorado at Boulder
 				<br><b>Email:</b> Sarel.Vanvuuren<img src="images/atcuemail.jpg" class="img-email">
 				<br><b>Office:</b> (303) 735-5265
@@ -146,7 +143,7 @@ computational semantics, lexical resources and ontologies.</TD></TR>
 		</td></tr>
 
 		<tr valign="top">
-		        <td><p class="img2"><img src="people/barb_wise.jpg"/></p></td>
+		        <td><p class="im2"><img src="people/barb_wise.jpg"/></p></td>
 			<td><u><b><a
 			href="http://ibg.colorado.edu/clrdc/wise.html">Wise,
 			Barbara</a></b></u>
