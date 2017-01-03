@@ -41,6 +41,7 @@ document.write("\
 		</li>\
 		<li><a href=\"javascript:void(0);\" onClick=\"loadPage('education.html')\">Education</a></li>\
 		<li><a href=\"javascript:void(0);\" onClick=\"loadPage('contact.html')\">Contact Us</a></li>\
+                <li><a href=\"javascript:void(0);\" onClick=\"loadPage('media.html')\">Media and Current Events</a></li>\
 		</ul>\
 	</div>\
 	")
